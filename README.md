@@ -1,2 +1,1 @@
-# sql
-interview question
+
